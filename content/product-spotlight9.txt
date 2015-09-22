@@ -1,0 +1,27 @@
+<h2 style="text-align: center"><span style="font-size: larger"><em><strong><span style="color: #990000"><img alt="" width="200" height="52" src="/content/image/binmaster-logo-lg.gif" />BMRX Rotary Level Indicator - SIMPLE.&nbsp; RUGGED.&nbsp; RELIABLE&nbsp; </span></strong></em></span></h2>
+<table border="1" cellspacing="1" cellpadding="1" width="812" style="width: 812px; height: 333px">
+    <caption><span style="font-size: medium"><em><u><strong>
+    <div align="center"><img alt="" width="590" height="128" src="http://binmaster.com/images/referenceimages/Template/topmisc.gif" /></div>
+    <p style="text-align: center">Reliable Point Level Detection and Measurement of Dry Bulk Solids</p>
+    </strong></u></em></span></caption>
+    <tbody>
+        <tr>
+            <td><img alt="BinMaster BMRX Rotary Level Indicator" width="100" height="191" src="/content/image/BMRX%20Maxima.jpg" /></td>
+            <td>
+            <p>BinMaster's&nbsp;<em><strong>Most Popular Rotary Level Indicator </strong></em>on the Market - cost effective, easy to install, reliable.</p>
+            <p>Only Rotary Level Indicator on the Market with de-energizing motor, built-in slip clutch, and four bearing&nbsp;drive shaft</p>
+            <p><strong>Prevents Bin Overflows, empty conditions, clogged chutes, jammed conveyors,&nbsp;and provides High or Low level monitoring </strong>for a wide variety of bulk solid materials in bins, tanks, silos, hoppers, and conveyors</p>
+            <p>Eliminates costly spills, material wastes, and unnecessary down time.</p>
+            <p>Features <em><strong>&quot;de-energized&quot; motor operation </strong></em>when materials are present that shuts motor down - does not leave motor in &quot;stalled&quot; condition like other brands of rotary level indicators.&nbsp; Saves energy and extends motor life.</p>
+            <p>Notifies operator when power is lost to the unit.</p>
+            <p>Screw-top enclosure provides easy access to motorized parts.</p>
+            <p>CE&nbsp;Approved, can be used in hazardous conditions - Class I, Groups C&amp;D,&nbsp;Class II&nbsp;E, F, &amp;&nbsp;G listings.</p>
+            <p>Typical Applications:&nbsp; Grains, Aggregates, Cements, Feed, Pellets, Fertilizers, Plastics, Wood Pellets, and More</p>
+            <p style="text-align: center"><span style="color: #ffffff"><span style="background-color: #990000"><span style="font-size: medium"><em><strong>BEST&nbsp;VALUE, MOST&nbsp;RELIABLE&nbsp;LEVEL CONTROL INDICATOR ON THE MARKET</strong></em></span></span></span></p>
+            <p style="text-align: center"><img alt="" width="25" height="28" src="/content/image/pdf-icon.png" />&nbsp;<span style="background-color: #990000"><span style="color: #ffffff"><a href="/content/Rotary Level Indicators Brochure.pdf"><span style="color: #ffffff">CLICK HERE TO GET THE BROCHURE</span></a></span></span></p>
+            <p style="text-align: center">&nbsp;</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>

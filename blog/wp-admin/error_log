@@ -1,0 +1,8 @@
+[19-Oct-2011 19:35:13] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17408 bytes) in /home/gulfatla/public_html/blog/wp-includes/media.php on line 254
+[22-Dec-2011 17:52:55] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 13056 bytes) in /home/gulfatla/public_html/blog/wp-includes/media.php on line 254
+[22-Dec-2011 17:58:41] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 13056 bytes) in /home/gulfatla/public_html/blog/wp-includes/media.php on line 254
+[05-Nov-2012 20:18:15 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 11648 bytes) in /home/gulfatla/public_html/blog/wp-includes/media.php on line 258
+[05-Nov-2012 20:20:16 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 2912 bytes) in /home/gulfatla/public_html/blog/wp-includes/media.php on line 258
+[05-Nov-2012 20:21:01 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17472 bytes) in /home/gulfatla/public_html/blog/wp-includes/media.php on line 258
+[05-Nov-2012 20:22:27 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 4368 bytes) in /home/gulfatla/public_html/blog/wp-includes/media.php on line 258
+[13-Jun-2013 12:56:03 UTC] WordPress database error MySQL server has gone away for query SELECT autoload FROM wp_options WHERE option_name = '_site_transient_update_core' made by do_core_upgrade, wp_update_core, Core_Upgrader->upgrade, update_core, delete_site_transient, delete_site_option, delete_option

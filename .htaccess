@@ -1,0 +1,5 @@
+RewriteEngine On
+     RewriteCond %{HTTP_HOST} ^gulfatlanticequipment\.com
+     RewriteRule (.*) http://www.gulfatlanticequipment.com/$1 [R=301,L]
+
+
